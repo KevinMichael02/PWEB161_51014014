@@ -1,0 +1,5 @@
++10 Tugas Siap
++3 Untuk 3 lagu Tambahan setelah 5 lagu pertama = +7
+-1 untuk setiap penggunaan opsi tag kecuali <img>, <a> = -15
+
+Score = 2
