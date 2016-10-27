@@ -1,0 +1,38 @@
+body
+
+{
+
+	background: url(cloud-wallpaper-hd-background-5.png) no-repeat fixed top center; background-size: cover;
+}
+
+img
+{
+	width: 100px;
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.border
+{
+	width: 500px;
+	padding: 5px;
+	border-radius: 25px;
+	background: #ffffff;
+
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+p,h2,h1
+{
+	text-align: center;
+}
+
+
+li
+{
+	list-style: none;
+}

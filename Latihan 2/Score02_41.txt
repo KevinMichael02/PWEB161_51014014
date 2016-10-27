@@ -1,0 +1,9 @@
+27/10/16
+--------
++10 untuk tugas dikerjakan
++5 untuk setiap selector yang lebih dari 5 baris
++24 (+2 untuk setiap pemanggilan class yang sama dalam HTML)
+
+_____________+
+
+Total = 39 + 2 = +41 
