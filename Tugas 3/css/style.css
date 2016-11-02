@@ -1,0 +1,82 @@
+body
+{
+	background: url(walpaper.jpg) no-repeat fixed top center; background-size: 100%;
+}
+
+.left,.middle,.latar
+
+{
+  border-radius: 25px;
+  padding: 10px;
+  border-top: 10px solid #fff;
+}
+
+.left
+{
+	width: 250px;
+	background: #1b1b1b;
+	float: left;
+	margin: 10px;
+}
+/* ---------------------------- ini Tengah*/
+.middle
+{
+	width: 730px;
+	background: #474747;
+	text-align: center;
+	float: left;
+	margin: 10px;
+}
+/*----------------------------- dibelakangnya tengah*/
+.latar{
+	max-width: 1080px;
+	border:3px;
+	margin: 40px auto;
+	background:#343434;
+	overflow: hidden;
+}
+
+h1
+{
+  color: #fff;
+  border: 1px solid #fff;
+  background: #000;
+  width: 250px;
+}
+
+@media screen and (max-width: 1080px){
+
+	.container
+	.left,
+	.middle,
+	.right {
+		width: auto;
+		float: none;
+	}
+}
+
+@media screen and (max-width: 780px){
+
+
+	.header
+	{
+		text-align: center;
+	}
+	.left,
+	.middle,
+	.right {
+		width: auto;
+		float: none;
+	}
+
+}
+
+.header
+{
+	background:url(header.jpg)no-repeat;
+	height: 100px;
+	background-size: cover;
+	padding:30px;
+	margin: 0px;
+	text-align: center;
+}
