@@ -1,0 +1,12 @@
+Theme: Freelancer (https://startbootstrap.com/template-overviews/freelancer/)
+
+
++10 untuk tugas yang di comit terakhir selambatnya tanggal 9/11/16 23:59:59
+ 
++3 untuk setiap class yang dibuat sendiri (nama baru, bukan override)
+
+-------+
+
+13
+
+
